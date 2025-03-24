@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Divya Reddy Suram
 
----
 
 ## 💫 About Me
 
@@ -14,7 +13,6 @@ I'm a passionate Software Engineer with a knack for building impactful technolog
 - 👯 **Communities:** Active member of Rewriting the Code and Society of Women Engineers
 - 🤝 **Open Source:** Contributor to the GOSQAS project
 
----
 
 ## 💻 Technical Skills
 
