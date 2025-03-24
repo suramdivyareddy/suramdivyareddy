@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divya Reddy Suram</h1>
-<h3 align="center">Passionate about solving problems through technology</h3>
-
 
 # 👋 Hi, I'm Divya Reddy Suram
-
-### 🚀 *Software Engineer | CS Major @ USF | Prev SWE @ Tiger Analytics*
 
 ---
 
@@ -22,10 +17,6 @@ I'm a passionate Software Engineer with a knack for building impactful technolog
 ---
 
 ## 💻 Technical Skills
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
