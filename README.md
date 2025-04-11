@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Divya Reddy Suram
 
-
 ## 💫 About Me
 
 I'm a passionate Software Engineer with a knack for building impactful technology solutions that address real-world challenges. Currently pursuing my Master's in Computer Science at the University of South Florida, I combine academic knowledge with industry experience to create innovative, user-focused applications.
