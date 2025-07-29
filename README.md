@@ -3,7 +3,7 @@
 
 I'm a passionate Software Engineer with a knack for building impactful technology solutions that address real-world challenges. Recently graduated with a Master's in Computer Science at the University of South Florida, I combine academic knowledge with industry experience to create innovative, user-focused applications.
 
-- 🔭 **Revently:** CTO & Research Intern at CardiacFITT, leading digital transformation efforts
+- 🔭 **Recently:** CTO & Research Intern at CardiacFITT, leading digital transformation efforts
 - 🌱 **Learning:** Advanced mobile app development, cloud architecture, and AI integration
 - 👩‍💻 **Previously:** Software Engineer at Tiger Analytics, focused on React Native development
 - 🏆 **Achievement:** Smart India Hackathon Winner
