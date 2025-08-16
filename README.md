@@ -1,7 +1,7 @@
 
-#  Hi, I'm Divya Reddy Suram
+#  Hi, I'm Divya 
 
-I'm a passionate Software Engineer with a knack for building impactful technology solutions that address real-world challenges. Recently graduated with a Master's in Computer Science at the University of South Florida, I combine academic knowledge with industry experience to create innovative, user-focused applications.
+I'm a Software Engineer with a knack for building impactful technology solutions that address real-world challenges. Recently graduated with a Master's in Computer Science at the University of South Florida, I combine academic knowledge with industry experience to create innovative, user-focused applications.
 
 -  **Open Source:** Contributor to the GOSQAS project
 -  **Recently:** CTO & Research Intern at CardiacFITT, leading digital transformation efforts
